@@ -28,3 +28,9 @@ element between quotations will become a token)
 d. 
 e. 
 f. 
+
+- User will get a result screen, which shows the similarity rates between every
+pair of document. (visualizations might be added)
+
+- User will also see a score of unnecessary words in the document (words that are
+in a dictionary that contains words such as "but" "and" "the" "however" etc.)
