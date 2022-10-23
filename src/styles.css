@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+html {
+  font-family: system-ui, sans-serif;
+  font-size: 1.25rem;
+  background-color: rgb(255, 255, 255);
+}
+
+body {
+  margin: 0;
+  padding: 0rem;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
